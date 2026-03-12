@@ -30,22 +30,9 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.5.12"
             }
-          },
-          {
-            "id": "5e47cb18a33f91b7",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,12 +145,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e47cb18a33f91b7",
+  "active": "6f61ffa982283b94",
   "lastOpenFiles": [
-    "文献阅读/star forming and feed back/feedback.md",
-    "Untitled.base",
-    "Questionnaire.md",
     "未命名.base",
+    "Untitled.base",
+    "文献阅读/star forming and feed back/feedback.md",
+    "Questionnaire.md",
     "未命名 1.base",
     "未命名.canvas",
     "文献阅读/gas accretion/The rates and modes of gas accretion on to galaxies and their gaseous haloes.md",

@@ -23,12 +23,14 @@
             "id": "e37f08b90bfbdd45",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "文献阅读/Telescope.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.5.12"
+              "icon": "lucide-file",
+              "title": "Telescope"
             }
           }
         ],
@@ -145,12 +147,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f61ffa982283b94",
+  "active": "e37f08b90bfbdd45",
   "lastOpenFiles": [
-    "未命名.base",
-    "Untitled.base",
-    "文献阅读/star forming and feed back/feedback.md",
     "Questionnaire.md",
+    "Untitled.base",
+    "未命名.base",
+    "文献阅读/star forming and feed back/feedback.md",
     "未命名 1.base",
     "未命名.canvas",
     "文献阅读/gas accretion/The rates and modes of gas accretion on to galaxies and their gaseous haloes.md",

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b5f3a5fc5f41a2bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ac613a97550260b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "文献阅读/Tamfal 2022 APJ.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84953611bed3ad42",
+    "type": "split",
+    "children": [
+      {
+        "id": "c68c3ee3dd9ead2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f90083ea4434b3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e3812efa26d1f3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd03561a90139da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d18bd130480cba6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdd021f2414b8d00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "文献阅读/Tamfal 2022 APJ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3ac613a97550260b",
+  "lastOpenFiles": [
+    "文献阅读/Tamfal 2022 APJ.md",
+    "文献阅读/Untitled.md"
+  ]
+}

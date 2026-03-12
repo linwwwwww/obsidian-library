@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"text","text":"","id":"833e089bf3a5fbf9","x":-165,"y":-3800,"width":250,"height":60},
+		{"type":"text","text":"","id":"7a465a982029780a","x":-120,"y":-14000,"width":250,"height":60},
+		{"type":"text","text":"gas accretion mechanism","id":"70c3772eb7191d7f","x":-240,"y":2120,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"cold accretion","id":"7ae3a882fc8b0bd0","x":-380,"y":2280,"width":250,"height":50,"color":"2"},
+		{"type":"text","text":"hot accretion","id":"4868bab074139989","x":-100,"y":2280,"width":250,"height":50,"color":"2"},
+		{"type":"text","text":"radial flow","id":"6f174b11048ef0e2","x":40,"y":2120,"width":140,"height":60,"color":"1"},
+		{"type":"text","text":"dominant mass/redshift/enviroment","id":"b38bbfd406fa5d92","x":-600,"y":2550,"width":250,"height":60},
+		{"type":"text","text":"criterion","id":"216cdc6df5a66ebc","x":-600,"y":2450,"width":170,"height":50},
+		{"type":"text","text":"definition","id":"40256d327ae91797","x":-600,"y":2350,"width":125,"height":50},
+		{"type":"text","text":"cool radius/virial radius\ncooling time/infalling time","id":"eb90bb0ed759c837","x":-220,"y":2350,"width":230,"height":50},
+		{"type":"text","text":"1. absolute temperature T\n2. the ratio between the gravitational compression time t_comp and the radiative cooling time t_cool \n3. entropy criterion","id":"28fbfdfc81f78451","x":-280,"y":2423,"width":405,"height":105},
+		{"type":"text","text":"1. lyman alpha\n2. GSMF","id":"8a72566fa83d492d","x":-280,"y":2795,"width":320,"height":55},
+		{"type":"text","text":"observation","id":"e61b21a2b5c9e524","x":-600,"y":2795,"width":140,"height":50},
+		{"type":"text","text":"1. the gas as it falls through the halo is qualitatively different below and above a critical mass scale of **Mshock $10^{12} M_\\odot$** (Birnboim & Dekel 2003; Kereˇs et al. 2005).\n2. In less massive haloes, the disc is built by cold flows (∼10^4−5 K), infalling gas heated by shock in massive haloes near the virial temperature (∼10^6 K)\n3. Near and above Mshock at z>2 (and preferentially in isolated galaxies), streams of dense cold gas penetrate through the dilute shockheated medium","id":"1f02fafe72b4d094","x":-280,"y":2550,"width":460,"height":210}
+	],
+	"edges":[
+		{"id":"de47bb8575b5a701","fromNode":"70c3772eb7191d7f","fromSide":"bottom","toNode":"7ae3a882fc8b0bd0","toSide":"top"},
+		{"id":"245b144f61992bf3","fromNode":"70c3772eb7191d7f","fromSide":"bottom","toNode":"4868bab074139989","toSide":"top"},
+		{"id":"6fcd7a87c5f1dabc","fromNode":"70c3772eb7191d7f","fromSide":"right","toNode":"6f174b11048ef0e2","toSide":"left"},
+		{"id":"aa74ad8ac507bff2","fromNode":"40256d327ae91797","fromSide":"right","toNode":"eb90bb0ed759c837","toSide":"left"},
+		{"id":"96af2ab13f0dd2d1","fromNode":"216cdc6df5a66ebc","fromSide":"right","toNode":"28fbfdfc81f78451","toSide":"left"},
+		{"id":"5da52620add13b34","fromNode":"b38bbfd406fa5d92","fromSide":"right","toNode":"1f02fafe72b4d094","toSide":"left"},
+		{"id":"e3928ddc8ed6b609","fromNode":"8a72566fa83d492d","fromSide":"right","toNode":"6f174b11048ef0e2","toSide":"right"},
+		{"id":"093574c627ca975f","fromNode":"7ae3a882fc8b0bd0","fromSide":"top","toNode":"6f174b11048ef0e2","toSide":"bottom"},
+		{"id":"125d253d935b90ce","fromNode":"e61b21a2b5c9e524","fromSide":"right","toNode":"8a72566fa83d492d","toSide":"left"}
+	]
+}

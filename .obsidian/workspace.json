@@ -35,14 +35,13 @@
             "id": "5e47cb18a33f91b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "文献阅读/star forming and feed back/feedback.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "feedback"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -161,6 +160,8 @@
   },
   "active": "5e47cb18a33f91b7",
   "lastOpenFiles": [
+    "文献阅读/star forming and feed back/feedback.md",
+    "Untitled.base",
     "Questionnaire.md",
     "未命名.base",
     "未命名 1.base",

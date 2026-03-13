@@ -7,7 +7,8 @@
   "citeFormats": [
     {
       "name": "Bibliography",
-      "format": "formatted-bibliography"
+      "format": "formatted-bibliography",
+      "cslStyle": "norsk-apa-manual-note"
     },
     {
       "name": "Cite",
@@ -20,7 +21,8 @@
       "outputPathTemplate": "{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "papers/zotero_template.md"
+      "templatePath": "papers/zotero_template.md",
+      "cslStyle": "nature"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

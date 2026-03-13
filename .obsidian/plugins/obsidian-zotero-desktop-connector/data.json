@@ -21,6 +21,7 @@
       "outputPathTemplate": "{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
+      "templatePath": "papers/zotero_template.md",
       "cslStyle": "nature"
     }
   ],

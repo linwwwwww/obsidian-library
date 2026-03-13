@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Untitled 1.md",
+                "file": "papers/zotero_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "zotero_template"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/Untitled 1.md",
+                "file": "papers/zotero_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Untitled 1 的反向链接列表"
+              "title": "zotero_template 的反向链接列表"
             }
           },
           {
@@ -165,9 +165,9 @@
   },
   "active": "2e870cf929edc224",
   "lastOpenFiles": [
+    "papers/Untitled 1.md",
     "mancerapinaGalaxyhaloConnectionDisc2025.md",
     "conflict-files-obsidian-git.md",
-    "papers/Untitled 1.md",
     "papers/Untitled.base",
     "papers/zotero_template.md",
     "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",

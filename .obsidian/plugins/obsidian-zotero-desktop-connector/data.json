@@ -11,7 +11,7 @@
       "outputPathTemplate": "{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "文献阅读/zotero_template.md"
+      "templatePath": "papers/zotero_template.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

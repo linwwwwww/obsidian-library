@@ -6,9 +6,12 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #1",
-      "format": "biblatex",
-      "command": "autocite"
+      "name": "bib",
+      "format": "formatted-bibliography"
+    },
+    {
+      "name": "cite",
+      "format": "formatted-citation"
     }
   ],
   "exportFormats": [

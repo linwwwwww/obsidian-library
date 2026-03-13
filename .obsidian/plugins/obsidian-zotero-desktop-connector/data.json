@@ -8,7 +8,7 @@
     {
       "name": "Bibliography",
       "format": "formatted-bibliography",
-      "cslStyle": "norsk-apa-manual-note"
+      "cslStyle": "nature"
     },
     {
       "name": "Cite",
@@ -21,7 +21,6 @@
       "outputPathTemplate": "{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "papers/zotero_template.md",
       "cslStyle": "nature"
     }
   ],

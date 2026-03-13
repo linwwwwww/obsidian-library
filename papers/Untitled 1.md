@@ -1,1 +1,2 @@
 Mancera Piña et al., “The Galaxy-Halo Connection of Disc Galaxies over Six Orders of Magnitude in Stellar Mass.”
+Mancera Piña, P. E. _et al._ The galaxy-halo connection of disc galaxies over six orders of magnitude in stellar mass. _A&A_ **699**, A311 (2025).

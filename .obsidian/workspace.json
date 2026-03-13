@@ -39,32 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/zotero_template.md",
+                "file": "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zotero_template"
+              "title": "mancerapinaGalaxyhaloConnectionDisc2025"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "c4efa20f13780f6b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24f203e80e4d0a19",
-            "type": "leaf",
-            "state": {
-              "type": "zdc-debug",
-              "state": {},
-              "icon": "gear",
-              "title": "Zotero Data Explorer"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/zotero_template.md",
+                "file": "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "zotero_template 的反向链接列表"
+              "title": "mancerapinaGalaxyhaloConnectionDisc2025 的反向链接列表"
             }
           },
           {
@@ -179,11 +163,11 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "24f203e80e4d0a19",
+  "active": "2e870cf929edc224",
   "lastOpenFiles": [
+    "papers/zotero_template.md",
     "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
     "mancerapinaGalaxyhaloConnectionDisc2025.md",
-    "papers/zotero_template.md",
     "papers/Untitled 1.md",
     "papers/Untitled.base",
     "Untitled.md",

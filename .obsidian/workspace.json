@@ -49,6 +49,22 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "c4efa20f13780f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f203e80e4d0a19",
+            "type": "leaf",
+            "state": {
+              "type": "zdc-debug",
+              "state": {},
+              "icon": "gear",
+              "title": "Zotero Data Explorer"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,19 +179,19 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "2e870cf929edc224",
+  "active": "24f203e80e4d0a19",
   "lastOpenFiles": [
-    "papers/Untitled 1.md",
-    "mancerapinaGalaxyhaloConnectionDisc2025.md",
-    "conflict-files-obsidian-git.md",
-    "papers/Untitled.base",
-    "papers/zotero_template.md",
     "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
+    "mancerapinaGalaxyhaloConnectionDisc2025.md",
+    "papers/zotero_template.md",
+    "papers/Untitled 1.md",
+    "papers/Untitled.base",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "文献阅读/gas accretion/Clustering.canvas",
     "未命名.md",
     "test.md",
     "papers",
-    "Untitled.md",
     "Untitled 1.md",
     "文献阅读/star forming and feed back/feedback.md",
     "Questionnaire.md",

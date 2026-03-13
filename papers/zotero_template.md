@@ -8,4 +8,5 @@
 ### Abstract
 
 {{abstractNote}}
+{{tags}}
 {% endif %}

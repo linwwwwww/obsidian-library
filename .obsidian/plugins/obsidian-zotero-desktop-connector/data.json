@@ -7,6 +7,13 @@
   "citeFormats": [],
   "exportFormats": [
     {
+      "name": "Import #2",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "papers/zotero_template.md"
+    },
+    {
       "name": "Literature Note",
       "outputPathTemplate": "{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
@@ -15,7 +22,7 @@
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
+  "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note",
   "exeOverridePath": ""
 }

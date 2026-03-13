@@ -53,7 +53,20 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "文献阅读/Untitled.base",
+                "file": "papers/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "924752d2a5aeb598",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "papers/Untitled.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
@@ -188,14 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "710a627b26144fa7",
+  "active": "924752d2a5aeb598",
   "lastOpenFiles": [
     "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
+    "papers/Untitled.base",
+    "papers/Untitled 1.md",
+    "Untitled 1.md",
     "papers/zotero_template.md",
-    "文献阅读/Untitled 1.md",
     "papers",
     "文献阅读/Telescope.md",
-    "文献阅读/Untitled.base",
     "Untitled.md",
     "test.md",
     "Questionnaire.md",

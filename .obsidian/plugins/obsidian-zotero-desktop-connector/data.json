@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "papers",
+  "noteImportFolder": "",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
@@ -13,14 +13,7 @@
   ],
   "exportFormats": [
     {
-      "name": "Import #2",
-      "outputPathTemplate": "{{citekey}}.md",
-      "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image",
-      "templatePath": "papers/zotero_template.md"
-    },
-    {
-      "name": "Literature Note",
+      "name": "Import #1",
       "outputPathTemplate": "{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
@@ -28,8 +21,6 @@
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": true,
-  "whichNotesToOpenAfterImport": "first-imported-note",
-  "exeOverridePath": "",
-  "shouldConcat": true
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
 }

@@ -39,16 +39,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
+                "file": "papers/DATA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mancerapinaGalaxyhaloConnectionDisc2025"
+              "title": "DATA"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "c26179d46a1629c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "186f14e836a3f03f",
+            "type": "leaf",
+            "state": {
+              "type": "zdc-debug",
+              "state": {},
+              "icon": "gear",
+              "title": "Zotero Data Explorer"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e870cf929edc224",
+  "active": "186f14e836a3f03f",
   "lastOpenFiles": [
+    "papers/LITTLETHINGS3D.md",
+    "papers/DATA.md",
     "papers/zotero_template.md",
-    "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
     "mancerapinaGalaxyhaloConnectionDisc2025.md",
     "papers/Untitled 1.md",
     "papers/Untitled.base",

@@ -1,16 +1,24 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "/papers/",
+  "noteImportFolder": "",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
+<<<<<<< HEAD
       "name": "bib",
       "format": "formatted-bibliography"
     },
     {
       "name": "cite",
+=======
+      "name": "Bibliography",
+      "format": "formatted-bibliography"
+    },
+    {
+      "name": "Cite",
+>>>>>>> origin/main
       "format": "formatted-citation"
     }
   ],

@@ -49,22 +49,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "c26179d46a1629c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "186f14e836a3f03f",
-            "type": "leaf",
-            "state": {
-              "type": "zdc-debug",
-              "state": {},
-              "icon": "gear",
-              "title": "Zotero Data Explorer"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "186f14e836a3f03f",
+  "active": "aeaa87801a1c8a30",
   "lastOpenFiles": [
     "papers/LITTLETHINGS3D.md",
     "papers/DATA.md",

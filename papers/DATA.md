@@ -15,3 +15,6 @@ The relations between stellar (M∗), gas (Mgas), baryonic (Mbar = M∗ + Mgas),
 2.
 
 LITTLE THINGS in 3D: robust determination of the circular velocity of dwarf irregular galaxies | Monthly Notices of the Royal Astronomical Society | Oxford Academic. [https://academic.oup.com/mnras/article/466/4/4159/2712521](https://academic.oup.com/mnras/article/466/4/4159/2712521).
+
+
+***clear evidence of radial trends of i and/or of PA as for example in DDO 133 and in DDO 154.

@@ -159,8 +159,7 @@
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-git:Open Git source control": false,
-      "zotero-sync-client:Sync with Zotero": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2e870cf929edc224",

@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hanning smooth.md",
+                "file": "note/Hanning smooth.md",
                 "mode": "source",
                 "source": false
               },
@@ -173,10 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af7ba53cd834b006",
+  "active": "6f61ffa982283b94",
   "lastOpenFiles": [
+    "note",
     "conflict-files-obsidian-git.md",
-    "Hanning smooth.md",
+    "note/Hanning smooth.md",
     "文献阅读/gas accretion/radial flow new.md",
     "文献阅读/gas accretion/Gas Accretion onto Galaxies.md",
     "文献阅读/gas accretion/Cold mode gas accretion on two galaxy groups at z ∼ 2.md",

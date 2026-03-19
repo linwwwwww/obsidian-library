@@ -14,7 +14,8 @@
       "name": "cite",
 =======
       "name": "Bibliography",
-      "format": "formatted-bibliography"
+      "format": "formatted-bibliography",
+      "cslStyle": "nature"
     },
     {
       "name": "Cite",
@@ -25,10 +26,11 @@
   "exportFormats": [
     {
       "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
+      "outputPathTemplate": "papers/{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "papers/zotero_template.md"
+      "templatePath": "papers/zotero_template.md",
+      "cslStyle": "nature"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

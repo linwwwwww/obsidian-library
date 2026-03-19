@@ -138,7 +138,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2b8104c43a06adbf",
+  "active": "aeaa87801a1c8a30",
   "lastOpenFiles": [
     "note/Hanning smooth.md",
     "Dailynotes/2026-03-19.md",

@@ -44,19 +44,9 @@
               "icon": "lucide-file",
               "title": "DATA"
             }
-          },
-          {
-            "id": "af7ba53cd834b006",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,6 +140,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1b4192ca9a615214",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 1
@@ -166,11 +166,13 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6f61ffa982283b94",
+  "active": "7fc88a231ebe8822",
   "lastOpenFiles": [
+    "2026-03-19.md",
     "note/Hanning smooth.md",
     "note",
     "conflict-files-obsidian-git.md",

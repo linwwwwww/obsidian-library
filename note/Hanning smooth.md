@@ -2,3 +2,4 @@ For strong spectral line sources (like RFI sources), the Gibbs phenomenon may ca
 
 
 linear parameters in Barolo：
+It should be 0.42 if the channels are independent (i.e. if the spectral resolution is the same as the channel width), and 0.85 if there was Hanning smoothing (and the resolution is twice as large as the channel width).

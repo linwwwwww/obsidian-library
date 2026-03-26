@@ -6,12 +6,20 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
+<<<<<<< HEAD
+      "name": "bib",
+      "format": "formatted-bibliography"
+    },
+    {
+      "name": "cite",
+=======
       "name": "Bibliography",
       "format": "formatted-bibliography",
       "cslStyle": "nature"
     },
     {
       "name": "Cite",
+>>>>>>> origin/main
       "format": "formatted-citation"
     }
   ],

@@ -1,0 +1,5 @@
+For strong spectral line sources (like RFI sources), the Gibbs phenomenon may cause ringing across the frequency channels of an observation. This is called the Gibbs pheomenon and a proven remedy is the Hanning smoothing algorithm. Hanning smoothing is a running mean across the spectral axis with a triangle as a smoothing kernel. The central channel is weighted by 0.5 and the two adjacent channels by 0.25 to preserve the flux. Hanning smoothing significantly reduces Gibbs ringing but there’s no gain without a penalty and here it is the loss of a factor of two in spectral resolution.
+
+
+linear parameters in Barolo：
+It should be 0.42 if the channels are independent (i.e. if the spectral resolution is the same as the channel width), and 0.85 if there was Hanning smoothing (and the resolution is twice as large as the channel width).

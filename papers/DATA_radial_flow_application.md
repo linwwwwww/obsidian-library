@@ -18,3 +18,6 @@ LITTLE THINGS in 3D: robust determination of the circular velocity of dwarf irre
 
 
 ***clear evidence of radial trends of i and/or of PA as for example in DDO 133 and in DDO 154.
+
+
+

@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "e0cd379be69c4d63",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
+          },
+          {
             "id": "2e870cf929edc224",
             "type": "leaf",
             "state": {
@@ -162,10 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aeaa87801a1c8a30",
+  "active": "e0cd379be69c4d63",
   "lastOpenFiles": [
-    "papers/LITTLETHINGS3D.md",
     "papers/DATA.md",
+    "papers/LITTLETHINGS3D.md",
     "papers/zotero_template.md",
     "mancerapinaGalaxyhaloConnectionDisc2025.md",
     "papers/Untitled 1.md",

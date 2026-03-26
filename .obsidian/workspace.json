@@ -77,25 +77,27 @@
             "id": "8ef6eebd79aa0502",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Dailynotes/check the rotation-direction-barolo.base",
-                "viewName": "表格"
+                "file": "note/DATA_radial_flow_application.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "check the rotation-direction-barolo"
+              "icon": "lucide-file",
+              "title": "DATA_radial_flow_application"
             }
           },
           {
             "id": "19e97c5de15997eb",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Dailynotes/check the rotation-direction-barolo.base",
-                "viewName": "表格"
+                "file": "Dailynotes/check the rotation-direction-barolo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
+              "icon": "lucide-file",
               "title": "check the rotation-direction-barolo"
             }
           }
@@ -214,10 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f61ffa982283b94",
+  "active": "19e97c5de15997eb",
   "lastOpenFiles": [
-    "Dailynotes/check the rotation-direction-barolo.md",
     "Dailynotes/check the rotation-direction-barolo.base",
+    "Dailynotes/check the rotation-direction-barolo.md",
     "note/DATA_radial_flow_application.md",
     "Dailynotes/2026-03-19.md",
     "Untitled.md",

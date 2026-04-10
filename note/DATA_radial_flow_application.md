@@ -17,5 +17,7 @@ https://ui.adsabs.harvard.edu/abs/2019ApJS..244...24L/abstract
 halogas THINGS hanning smooth过 LVHIS 未知
 mhongoose用的r15_t0的数据-原因：较高分辨率，较小数据大小:记得所有得用linear 0.42！
 确定样本：
-全部10^9 -10^10  还是分三个level
+全部10^9 -10^10  ---->只有10个 先优化，再批量下载做
+必须得分不同rotation curve
+
 和sfr比较

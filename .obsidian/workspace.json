@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/NOEMA3D.md",
+                "file": "Dailynotes/2026-05-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOEMA3D"
+              "title": "2026-05-06"
             }
           }
         ],
@@ -313,9 +313,9 @@
   },
   "active": "68a505c02c5026fb",
   "lastOpenFiles": [
+    "papers/NOEMA3D.md",
     "Screenshot 2026-05-07 at 12.06.25.png",
     "conflict-files-obsidian-git.md",
-    "papers/NOEMA3D.md",
     "Dailynotes/2026-05-06.md",
     "Dailynotes/2026-04-21.md",
     "Dailynotes/2026-04-16.md",

@@ -184,9 +184,23 @@
               "icon": "lucide-file",
               "title": "NOEMA3D"
             }
+          },
+          {
+            "id": "b0f4e7f35b2036ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -311,11 +325,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68a505c02c5026fb",
+  "active": "b0f4e7f35b2036ad",
   "lastOpenFiles": [
-    "Dailynotes/2026-05-06.md",
-    "papers/NOEMA3D.md",
     "conflict-files-obsidian-git.md",
+    "papers/NOEMA3D.md",
+    "Dailynotes/2026-05-06.md",
     "Dailynotes/2026-04-21.md",
     "Dailynotes/2026-04-16.md",
     "Dailynotes/2026-04-14.md",

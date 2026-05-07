@@ -26,3 +26,6 @@ PA是single value
 **Velocity and dispersion**：
 Initial value：To extract the velocity and dispersion profiles used for modeling, we align a slit with the galaxy PA. 
 
+**radial velocty**：
+_The final velocity residual maps are obtained by subtracting each__beam-convolved model velocity map from the observed velocity__maps._
+![[Screenshot 2026-05-07 at 12.06.25.png]]

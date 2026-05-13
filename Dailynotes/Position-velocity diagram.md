@@ -1,1 +1,1 @@
-Min
+Minor axis, fit 的 contour超出是因为fit 的 inc

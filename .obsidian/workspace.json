@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailynotes/Position-velocity diagram.md",
+                "file": "2026-05-18 Kapteyn training day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Position-velocity diagram"
+              "title": "2026-05-18 Kapteyn training day"
             }
           }
         ],
@@ -271,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "016147e3a8344ee6",
@@ -341,8 +342,9 @@
   },
   "active": "d4ded41fab98bb83",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Dailynotes/Position-velocity diagram.md",
+    "2026-05-18 Kapteyn training day.md",
+    "conflict-files-obsidian-git.md",
     "papers/NOEMA3D.md",
     "Dailynotes/2026-05-06.md",
     "Screenshot 2026-05-07 at 12.06.25.png",
@@ -377,7 +379,6 @@
     "未命名.canvas",
     "文献阅读/gas accretion/The rates and modes of gas accretion on to galaxies and their gaseous haloes.md",
     "文献阅读/gas accretion/radial flow new.md",
-    "文献阅读/Gas Flow.md",
     "未命名"
   ]
 }

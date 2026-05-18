@@ -15,4 +15,8 @@ publication-collaboration-leadership-independence-whyhost-awards-talks>project
 Jason Hessels:
 5-10min present
 120 words/min
-answer: what how to achieve
+answer: what how to achieve/why you/challenge/impactful outcome
+how to answer questions:
+short answer
+samples:http://tiny.cc/ddm3101
+

@@ -13,3 +13,6 @@ key points - 30 min to read
 publication-collaboration-leadership-independence-whyhost-awards-talks>project
 
 Jason Hessels:
+5-10min present
+120 words/min
+answer: what how to achieve

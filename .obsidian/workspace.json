@@ -4,49 +4,217 @@
     "type": "split",
     "children": [
       {
-        "id": "ea5eb7d1c93a6a45",
+        "id": "7ddff0c5d6635d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "4c8e45f00c788d4c",
+            "id": "655444f57fad0760",
             "type": "leaf",
             "state": {
-              "type": "zdc-debug",
-              "state": {},
-              "icon": "gear",
-              "title": "Zotero Data Explorer"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.5.11"
             }
           },
           {
-            "id": "2b8104c43a06adbf",
+            "id": "e37f08b90bfbdd45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-05-18 Kapteyn training day.md",
+                "file": "papers/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-18 Kapteyn training day"
+              "title": "Untitled 1"
             }
           },
           {
-            "id": "9e4f0e31036e5edf",
+            "id": "e0cd379be69c4d63",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
+          },
+          {
+            "id": "2e870cf929edc224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/check galaxy fitting.md",
+                "file": "papers/DATA_radial_flow_application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "check galaxy fitting"
+              "title": "DATA_radial_flow_application"
+            }
+          },
+          {
+            "id": "88e1ef56cda6b6a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/DATA_radial_flow_application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DATA_radial_flow_application"
+            }
+          },
+          {
+            "id": "8ef6eebd79aa0502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/DATA_radial_flow_application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DATA_radial_flow_application"
+            }
+          },
+          {
+            "id": "19e97c5de15997eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/DATA_radial_flow_application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DATA_radial_flow_application"
+            }
+          },
+          {
+            "id": "807aee0b25f3e8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/DATA_radial_flow_application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DATA_radial_flow_application"
+            }
+          },
+          {
+            "id": "a34f14c8d8e6596d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailynotes/2026-04-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-14"
+            }
+          },
+          {
+            "id": "94a771b50f2873bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailynotes/2026-04-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-14"
+            }
+          },
+          {
+            "id": "4387767abe835b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailynotes/2026-04-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-21"
+            }
+          },
+          {
+            "id": "545f7d1583d8df5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailynotes/2026-05-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-06"
+            }
+          },
+          {
+            "id": "68a505c02c5026fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailynotes/2026-05-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-06"
+            }
+          },
+          {
+            "id": "61e5bcc2a9487f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/NOEMA3D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NOEMA3D"
+            }
+          },
+          {
+            "id": "d4ded41fab98bb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-07-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-16"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -69,7 +237,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -86,7 +254,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -103,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "016147e3a8344ee6",
@@ -119,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dailynotes/2026-05-06.md",
+                "file": "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +298,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-05-06"
+              "title": "mancerapinaGalaxyhaloConnectionDisc2025 的反向链接列表"
             }
           },
           {
@@ -143,7 +312,7 @@
             }
           },
           {
-            "id": "1b4192ca9a615214",
+            "id": "5033b89edc007baf",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -161,50 +330,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:打开/创建今天的日记": false,
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e4f0e31036e5edf",
+  "active": "d4ded41fab98bb83",
   "lastOpenFiles": [
     "2026-05-18 Kapteyn training day.md",
+    "2026-07-16.md",
     "note/check galaxy fitting.md",
-    "Dailynotes/2026-05-06.md",
     "Dailynotes/Position-velocity diagram.md",
+    "conflict-files-obsidian-git.md",
     "papers/NOEMA3D.md",
+    "Dailynotes/2026-05-06.md",
     "Screenshot 2026-05-07 at 12.06.25.png",
     "Dailynotes/2026-04-21.md",
     "Dailynotes/2026-04-16.md",
     "Dailynotes/2026-04-14.md",
-    "note/DATA_radial_flow_application.md",
-    "conflict-files-obsidian-git.md",
     "Dailynotes/2026-03-19.md",
-    "Dailynotes/check the rotation-direction-barolo.md",
-    "papers/DATA_radial_flow_application.md",
+    "note/DATA_radial_flow_application.md",
     "note/Hanning smooth.md",
-    "Dailynotes",
-    "papers/DATA.md",
-    "Untitled.canvas",
-    "note",
-    "文献阅读/gas accretion/radial flow new.md",
-    "文献阅读/gas accretion/Gas Accretion onto Galaxies.md",
-    "文献阅读/gas accretion/Cold mode gas accretion on two galaxy groups at z ∼ 2.md",
-    "Untitled 1.md",
-    "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
-    "文献阅读/Telescope.md",
-    "papers/Untitled.base",
-    "papers/zotero_template.md",
-    "papers/Untitled 1.md",
-    "未命名.md",
-    "papers",
+    "Dailynotes/check the rotation-direction-barolo.md",
+    "Dailynotes/check the rotation-direction-barolo.base",
     "Untitled.md",
+    "Untitled.canvas",
+    "papers/DATA_radial_flow_application.md",
+    "papers/mancerapinaGalaxyhaloConnectionDisc2025.md",
+    "note",
+    "Dailynotes",
+    "papers/LITTLETHINGS3D.md",
+    "papers/zotero_template.md",
+    "mancerapinaGalaxyhaloConnectionDisc2025.md",
+    "papers/Untitled 1.md",
+    "papers/Untitled.base",
+    "文献阅读/gas accretion/Clustering.canvas",
+    "未命名.md",
     "test.md",
+    "papers",
+    "Untitled 1.md",
+    "文献阅读/star forming and feed back/feedback.md",
+    "Questionnaire.md",
     "未命名.base",
     "未命名 1.base",
     "未命名.canvas",

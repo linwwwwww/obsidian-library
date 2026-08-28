@@ -217,16 +217,18 @@
             "id": "3e9e89ba3ecf9496",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "2026-08-28.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.7"
+              "icon": "lucide-file",
+              "title": "2026-08-28"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -352,8 +354,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e9e89ba3ecf9496",
+  "active": "d4ded41fab98bb83",
   "lastOpenFiles": [
+    "2026-08-28.md",
     "2026-07-16.md",
     "2026-08-20.md",
     "2026-05-18 Kapteyn training day.md",
@@ -387,7 +390,6 @@
     "test.md",
     "papers",
     "Untitled 1.md",
-    "文献阅读/star forming and feed back/feedback.md",
     "未命名.base",
     "未命名 1.base",
     "未命名.canvas",
